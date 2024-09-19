@@ -23,8 +23,6 @@ body {
     flex: 1;
     padding: 20px;
     color: white;
-    
-    
     margin: 0 10px;
     display: flex;
     flex-direction: column;
@@ -73,6 +71,11 @@ body {
     transition: background-color 0.3s ease;
     margin-bottom: 20px;
 }
+.learn:hover {
+    background-color: white;
+    color: black;
+}
+
 
 .image {
     margin-top: 5px;
